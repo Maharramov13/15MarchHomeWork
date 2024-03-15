@@ -1,0 +1,14 @@
+C:\Users\resul\Desktop\consoleApp 15hw-3,4\bin\Debug\net8.0\consoleApp 15hw-3,4.exe
+C:\Users\resul\Desktop\consoleApp 15hw-3,4\bin\Debug\net8.0\consoleApp 15hw-3,4.deps.json
+C:\Users\resul\Desktop\consoleApp 15hw-3,4\bin\Debug\net8.0\consoleApp 15hw-3,4.runtimeconfig.json
+C:\Users\resul\Desktop\consoleApp 15hw-3,4\bin\Debug\net8.0\consoleApp 15hw-3,4.dll
+C:\Users\resul\Desktop\consoleApp 15hw-3,4\bin\Debug\net8.0\consoleApp 15hw-3,4.pdb
+C:\Users\resul\Desktop\consoleApp 15hw-3,4\obj\Debug\net8.0\consoleApp 15hw-3,4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resul\Desktop\consoleApp 15hw-3,4\obj\Debug\net8.0\consoleApp 15hw-3,4.AssemblyInfoInputs.cache
+C:\Users\resul\Desktop\consoleApp 15hw-3,4\obj\Debug\net8.0\consoleApp 15hw-3,4.AssemblyInfo.cs
+C:\Users\resul\Desktop\consoleApp 15hw-3,4\obj\Debug\net8.0\consoleApp 15hw-3,4.csproj.CoreCompileInputs.cache
+C:\Users\resul\Desktop\consoleApp 15hw-3,4\obj\Debug\net8.0\consoleApp 15hw-3,4.dll
+C:\Users\resul\Desktop\consoleApp 15hw-3,4\obj\Debug\net8.0\refint\consoleApp 15hw-3,4.dll
+C:\Users\resul\Desktop\consoleApp 15hw-3,4\obj\Debug\net8.0\consoleApp 15hw-3,4.pdb
+C:\Users\resul\Desktop\consoleApp 15hw-3,4\obj\Debug\net8.0\consoleApp 15hw-3,4.genruntimeconfig.cache
+C:\Users\resul\Desktop\consoleApp 15hw-3,4\obj\Debug\net8.0\ref\consoleApp 15hw-3,4.dll

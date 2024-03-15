@@ -1,0 +1,14 @@
+C:\Users\resul\Desktop\15machtask1\bin\Debug\net8.0\15machtask1.exe
+C:\Users\resul\Desktop\15machtask1\bin\Debug\net8.0\15machtask1.deps.json
+C:\Users\resul\Desktop\15machtask1\bin\Debug\net8.0\15machtask1.runtimeconfig.json
+C:\Users\resul\Desktop\15machtask1\bin\Debug\net8.0\15machtask1.dll
+C:\Users\resul\Desktop\15machtask1\bin\Debug\net8.0\15machtask1.pdb
+C:\Users\resul\Desktop\15machtask1\obj\Debug\net8.0\15machtask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resul\Desktop\15machtask1\obj\Debug\net8.0\15machtask1.AssemblyInfoInputs.cache
+C:\Users\resul\Desktop\15machtask1\obj\Debug\net8.0\15machtask1.AssemblyInfo.cs
+C:\Users\resul\Desktop\15machtask1\obj\Debug\net8.0\15machtask1.csproj.CoreCompileInputs.cache
+C:\Users\resul\Desktop\15machtask1\obj\Debug\net8.0\15machtask1.dll
+C:\Users\resul\Desktop\15machtask1\obj\Debug\net8.0\refint\15machtask1.dll
+C:\Users\resul\Desktop\15machtask1\obj\Debug\net8.0\15machtask1.pdb
+C:\Users\resul\Desktop\15machtask1\obj\Debug\net8.0\15machtask1.genruntimeconfig.cache
+C:\Users\resul\Desktop\15machtask1\obj\Debug\net8.0\ref\15machtask1.dll
